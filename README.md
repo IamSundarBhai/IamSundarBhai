@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @IamSundarBhai
-- 👀 I’m interested in Microsoft Technologies
-- 🌱 I’m currently learning MAUI & ML
-- 💞️ I’m looking to collaborate on OSS
-- 📫 How to reach me learnwithsundar@gmail.com
-- 😄 Pronouns: He / Him / Sundar Bhai
-- ⚡ Fun fact: ...
+# Welcome to My GitHub Profile! 👋
 
-<!---
-IamSundarBhai/IamSundarBhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me ℹ️
+- 👨‍💻 I go by the handle **@IamSundarBhai**.
+- 👀 I'm passionate about **Microsoft Technologies** and all things related.
+- 🌱 Currently, I'm expanding my knowledge in **MAUI (Multi-platform App UI)** and **Machine Learning**.
+- 💞️ Open to collaboration on **Open Source Software (OSS)** projects.
+- 📫 You can reach out to me via email: **learnwithsundar@gmail.com**.
+- 😄 Pronouns: **He / Him / Sundar Bhai**.
+
+### Get in Touch 📫
+- **Email:** learnwithsundar@gmail.com
+
+### Let's Connect! 🤝
+Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
